@@ -2,7 +2,8 @@
 ### This repository houses various coding challenges that I have completed in Python! 
 
 1. Stutter(easy difficulty): 
-    Write a function that stutters a word as if someone is struggling to read it. The first two     letters are repeated twice followed by "..." and space after each, and then the word is pronounced with a question mark ?
+   
+    ``` Write a function that stutters a word as if someone is struggling to read it. The first two     letters are repeated twice followed by "..." and space after each, and then the word is pronounced      with a question mark ? ```
 
 2. Drunken Python(medium difficulty):
 
